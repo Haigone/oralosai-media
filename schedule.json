@@ -49,5 +49,22 @@
    "slides": 7,
    "title": "Un chilometro cubo di ghiaccio ha vinto il Nobel"
   }
+ },
+ "2026-10-22": {
+  "1": {
+   "path": "posts/2026-10-22/s1",
+   "slides": 6,
+   "title": "Call of Duty e GTA 6: le date da segnare"
+  },
+  "2": {
+   "path": "posts/2026-10-22/s2",
+   "slides": 6,
+   "title": "Khaby Lame ambasciatore dei Giochi Olimpici Giovanili"
+  },
+  "3": {
+   "path": "posts/2026-10-22/s3",
+   "slides": 6,
+   "title": "Fabri Fibra e Neffa volano al primo posto FIMI"
+  }
  }
 }
