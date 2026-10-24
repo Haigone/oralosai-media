@@ -107,5 +107,22 @@
    "slides": 6,
    "title": "Tedua: Palasport 2027, cinque date a gennaio"
   }
+ },
+ "2026-10-25": {
+  "1": {
+   "path": "posts/2026-10-25/s1",
+   "slides": 6,
+   "title": "Phantom Blade Zero esce il 29 ottobre su PS5 e PC"
+  },
+  "2": {
+   "path": "posts/2026-10-25/s2",
+   "slides": 6,
+   "title": "Cyberpunk Edgerunners 2 è su Netflix"
+  },
+  "3": {
+   "path": "posts/2026-10-25/s3",
+   "slides": 6,
+   "title": "Guè: Rudeboy Live 2027, sei date nei palasport"
+  }
  }
 }
