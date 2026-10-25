@@ -124,5 +124,22 @@
    "slides": 6,
    "title": "Guè: Rudeboy Live 2027, sei date nei palasport"
   }
+ },
+ "2026-10-26": {
+  "1": {
+   "path": "posts/2026-10-26/s1",
+   "slides": 6,
+   "title": "World of Warcraft: Forever esce il 4 novembre"
+  },
+  "2": {
+   "path": "posts/2026-10-26/s2",
+   "slides": 6,
+   "title": "Dexter: Resurrection 2 arriva il 30 ottobre su Paramount+"
+  },
+  "3": {
+   "path": "posts/2026-10-26/s3",
+   "slides": 6,
+   "title": "Gazzelle: Palasport 2027 ad aprile"
+  }
  }
 }
