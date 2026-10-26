@@ -141,5 +141,22 @@
    "slides": 6,
    "title": "Gazzelle: Palasport 2027 ad aprile"
   }
+ },
+ "2026-10-27": {
+  "1": {
+   "path": "posts/2026-10-27/s1",
+   "slides": 6,
+   "title": "Remothered: Red Nun's Legacy esce oggi"
+  },
+  "2": {
+   "path": "posts/2026-10-27/s2",
+   "slides": 6,
+   "title": "Gli Anelli del Potere 3: debutto l'11 novembre su Prime Video"
+  },
+  "3": {
+   "path": "posts/2026-10-27/s3",
+   "slides": 6,
+   "title": "Sfera Ebbasta: il Live Tour 2027 cresce fino a nove date"
+  }
  }
 }
