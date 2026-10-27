@@ -158,5 +158,22 @@
    "slides": 6,
    "title": "Sfera Ebbasta: il Live Tour 2027 cresce fino a nove date"
   }
+ },
+ "2026-10-28": {
+  "1": {
+   "path": "posts/2026-10-28/s1",
+   "slides": 6,
+   "title": "Football Manager 27 esce il 10 novembre"
+  },
+  "2": {
+   "path": "posts/2026-10-28/s2",
+   "slides": 6,
+   "title": "Black Doves 2 arriva su Netflix il 5 novembre"
+  },
+  "3": {
+   "path": "posts/2026-10-28/s3",
+   "slides": 6,
+   "title": "Kid Yugi: La Resa dei Conti 2027 a Fiera Milano Live"
+  }
  }
 }
