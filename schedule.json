@@ -175,5 +175,22 @@
    "slides": 6,
    "title": "Kid Yugi: La Resa dei Conti 2027 a Fiera Milano Live"
   }
+ },
+ "2026-10-29": {
+  "1": {
+   "path": "posts/2026-10-29/s1",
+   "slides": 6,
+   "title": "Call of Duty MW4 su PC: servono TPM 2.0 e Secure Boot"
+  },
+  "2": {
+   "path": "posts/2026-10-29/s2",
+   "slides": 6,
+   "title": "Blade Runner 2099 arriva il 25 novembre su Prime Video"
+  },
+  "3": {
+   "path": "posts/2026-10-29/s3",
+   "slides": 6,
+   "title": "Bresh: Milano Marea, il concerto all'ippodromo SNAI San Siro"
+  }
  }
 }
