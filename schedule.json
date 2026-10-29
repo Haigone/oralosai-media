@@ -192,5 +192,22 @@
    "slides": 6,
    "title": "Bresh: Milano Marea, il concerto all'ippodromo SNAI San Siro"
   }
+ },
+ "2026-10-30": {
+  "1": {
+   "path": "posts/2026-10-30/s1",
+   "slides": 6,
+   "title": "Guardians of the Galaxy arriva su Switch 2 il 5 novembre"
+  },
+  "2": {
+   "path": "posts/2026-10-30/s2",
+   "slides": 6,
+   "title": "The Greatest: la serie su Muhammad Ali debutta il 4 novembre su Prime Video"
+  },
+  "3": {
+   "path": "posts/2026-10-30/s3",
+   "slides": 6,
+   "title": "Lucio Corsi: esce Napoleone Buonanotte, poi i palasport"
+  }
  }
 }
