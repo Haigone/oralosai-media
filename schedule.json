@@ -226,5 +226,22 @@
    "slides": 6,
    "title": "ChiaroScuro: la serie Netflix tra arte e crimine arriva l'11 novembre"
   }
+ },
+ "2026-11-01": {
+  "1": {
+   "path": "posts/2026-11-01/s1",
+   "slides": 6,
+   "title": "Professor Layton and the New World of Steam esce il 10 dicembre"
+  },
+  "2": {
+   "path": "posts/2026-11-01/s2",
+   "slides": 6,
+   "title": "Percy Jackson 3: la maledizione del Titano arriva il 20 novembre su Disney+"
+  },
+  "3": {
+   "path": "posts/2026-11-01/s3",
+   "slides": 6,
+   "title": "Rocco Hunt e Clementino: The Album esce il 6 novembre"
+  }
  }
 }
